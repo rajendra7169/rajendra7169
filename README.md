@@ -1,4 +1,9 @@
 ### Hi there, I'm Rajendra 👋
+A passionate Front-End Web Developer based in Kathmandu, Nepal. I specialize in building intuitive and responsive web applications using modern technologies such as HTML, CSS, JavaScript, and the MERN stack (MongoDB, Express, React, Node.js). I am also proficient in Next.js, Python, and Java, with a keen interest in delivering high-quality code and user-centric solutions.
+
+With a strong foundation in front-end development, I thrive in creating seamless and engaging user interfaces, and I'm always eager to learn and explore new technologies to improve my skills. I am committed to writing clean, efficient code and collaborating in an agile environment to bring projects to life.
+
+Feel free to explore my repositories to see some of my work!
 
 [![Website](https://img.shields.io/website?label=rajendrapandey.info.np&style=for-the-badge&url=https://rajendrapandey.info.np)](https://www.rajendrapandey.info.np)
 
