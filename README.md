@@ -8,9 +8,7 @@ Feel free to explore my repositories to see some of my work!
 
 <br/>
 
-
 [![Website](https://img.shields.io/website?label=rajendrapandey.info.np&style=for-the-badge&url=https://rajendrapandey.info.np)](https://www.rajendrapandey.info.np)
-
 
 ## I'm a Front-End Web Developer 👨‍💻
 
@@ -43,6 +41,6 @@ Feel free to explore my repositories to see some of my work!
 
 ## Other Social Media 📲
 
-[![Facebook](https://img.icons8.com/fluency/50/facebook-new.png)](https://www.facebook.com/raja.indra.50159)
-[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:rajendrapandey199971@gmail.com)
-[![Twitter](https://img.icons8.com/color/48/twitter-circled--v1.png)](https://twitter.com)
+[![Facebook](icons8-facebook-27.png)](https://www.facebook.com/raja.indra.50159)
+[![Twitter](icons8-twitter-26.png)](https://twitter.com)
+[![Gmail](icons8-gmail-26.png)](mailto:rajendrapandey199971@gmail.com)
