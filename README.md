@@ -43,14 +43,6 @@ Feel free to explore my repositories to see some of my work!
 
 ## Other Social Media 📲
 
-<a href="https://www.facebook.com/raja.indra.50159">
-  <img src="https://img.icons8.com/fluency/50/facebook-new.png" alt="Facebook" width="30" height="30">
-</a>
-
-<a href="mailto:rajendrapandey199971@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" height="30">
-</a>
-
-<a href="https://twitter.com">
-  <img src="https://img.icons8.com/color/48/twitter-circled--v1.png" alt="Twitter" width="30" height="30">
-</a>
+[![Facebook](https://img.icons8.com/fluency/50/facebook-new.png)](https://www.facebook.com/raja.indra.50159)
+[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:rajendrapandey199971@gmail.com)
+[![Twitter](https://img.icons8.com/color/48/twitter-circled--v1.png)](https://twitter.com)
