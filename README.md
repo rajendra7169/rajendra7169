@@ -46,9 +46,9 @@ Feel free to explore my repositories to see some of my work!
 [![Gmail](icons8-gmail-26.png)](mailto:rajendrapandey199971@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajendra7169/rajendra7169/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajendra7169/rajendra7169/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rajendra7169/rajendra7169/refs/heads/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajendra7169/rajendra7169/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajendra7169/rajendra7169/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rajendra7169/rajendra7169/output/github-snake.svg" />
 </picture>
 
 ## 📊 GitHub Stats:
