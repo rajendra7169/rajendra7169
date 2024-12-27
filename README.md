@@ -53,7 +53,6 @@ Feel free to explore my repositories to see some of my work!
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rajendra7169&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajendra7169&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendra7169&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
