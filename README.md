@@ -24,7 +24,7 @@ I'm always exploring new technology for smarter, faster, and more creative workf
 - 🛠️ Applying AI at work for smarter, faster, and more accurate solutions
 - 👥 Leading teams and building products from idea to launch
 - 🌱 Always learning, creating, and exploring new tech
-- 🥅 2024 Goals: Contribute more to open source, master advanced AI
+- 🥅 2026 Goals: Contribute more to open source, master advanced AI
 - 🎸 Fun fact: I love to draw and play guitar/drums
 
 ---
