@@ -51,19 +51,17 @@ I'm always exploring new technology for smarter, faster, and more creative workf
   <img alt="Git" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin:10px" />
 </p>
 
-## Find me around the web 🌎 <a href="https://rajendrapandey.info.np"><img align="right" width="200" height="200" src="male-programmer-writing-code.gif"></a>
+## 🌎 Find me around the web  <a href="https://rajendrapandey.info.np"><img align="right" width="200" height="200" src="male-programmer-writing-code.gif"></a>
 
 - Learning in public on [YouTube](https://www.youtube.com) 📹 ✍🏾
 - When I’m not coding, I share moments and updates on [Instagram](https://www.instagram.com/raja.indra7169). Let’s connect there too! 📸
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/rajendrapaandey/) 💼
-
-<br/>
-
-## Other Social Media 📲
-
+  # Other Social Media 📲
 [![Facebook](icons8-facebook-27.png)](https://www.facebook.com/raja.indra.50159)
 [![Twitter](icons8-twitter-26.png)](https://twitter.com)
 [![Gmail](icons8-gmail-26.png)](mailto:rajendrapandey199971@gmail.com)
+
+<br/>
 
 ## 📊 GitHub Stats:
 
