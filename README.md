@@ -15,7 +15,7 @@ I'm always exploring new technology for smarter, faster, and more creative workf
 
 [![Website](https://img.shields.io/website?label=rajendrapandey.info.np&style=for-the-badge&url=https://rajendrapandey.info.np)](https://www.rajendrapandey.info.np)
 
-## 👋 Hi, I'm Rajendra – Developer, Project Manager & Creative Tech Enthusiast
+## What I Do
 
 - 🏢 Project Manager & Developer @ Matrikatec (Kathmandu, Nepal)
 - 📱 .NET, Flutter/Dart, React, APIs, and modern databases
