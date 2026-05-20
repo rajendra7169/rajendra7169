@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Rajendra – Developer, Project Manager & Creative Tech Enthusiast
-I'm a multi disciplinary tech enthusiast based in Kathmandu, Nepal, currently working as Project Manager & Developer at Matrikatec.
+## 👋 Hi, I'm Rajendra – Project Manager & Developer at Matrikatec Pvt. Ltd.
+Based in Kathmandu, Nepal, I blend a passion for technology with hands on experience in development, design, and project leadership.
 
 - **Development:** .NET APIs, Flutter/Dart (apps), React/Next.js (web), Node.js, Python, Java
 - **Databases:** MongoDB, PostgreSQL, and more
