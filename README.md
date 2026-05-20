@@ -1,4 +1,4 @@
-#I'm a multi-disciplinary tech enthusiast based in Kathmandu, Nepal, currently working as Project Manager & Developer at Matrikatec.
+I'm a multi-disciplinary tech enthusiast based in Kathmandu, Nepal, currently working as Project Manager & Developer at Matrikatec.
 
 - **Development:** .NET APIs, Flutter/Dart (apps), React/Next.js (web), Node.js, Python, Java
 - **Databases:** MongoDB, PostgreSQL, and more
