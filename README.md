@@ -1,10 +1,17 @@
 # Hi there, I'm Rajendra 👋
 
-I'm a passionate Front-End Web Developer based in Kathmandu, Nepal. I specialize in building intuitive and responsive web applications using modern technologies such as HTML, CSS, JavaScript, and the MERN stack (MongoDB, Express, React, Node.js).
+I'm a versatile developer based in Kathmandu, Nepal, working at Matrikatec. I specialize in building seamless apps and APIs across platforms with Flutter/Dart, .NET (API), React, and modern databases. My experience spans full-stack web and cross-platform mobile development, UI/UX design, and database solutions.
 
-I am also proficient in Next.js, Python, and Java, with a keen interest in delivering high-quality code and user-centric solutions. With a strong foundation in front-end development, I thrive in creating seamless and engaging user interfaces. I’m always eager to learn and explore new technologies to improve my skills. I am committed to writing clean, efficient code and collaborating in an agile environment to bring projects to life.
+Proficient in:  
+- Mobile: Flutter/Dart  
+- Backend & API: .NET, Node.js/Express  
+- Frontend: React, Next.js, HTML/CSS/JS  
+- Databases: MongoDB, PostgreSQL, and more  
+- Python and Java
 
-Feel free to explore my repositories to see some of my work!
+I’m passionate about creating intuitive user experiences, delivering high-quality, efficient code, and collaborating in agile teams. Always eager to learn new technologies and tackle complex challenges.
+
+Feel free to explore my repositories to see my work!
 
 <br/>
 
