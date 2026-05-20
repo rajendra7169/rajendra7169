@@ -1,4 +1,4 @@
-## I'm a multi-disciplinary tech enthusiast based in Kathmandu, Nepal, currently working as Project Manager & Developer at Matrikatec.
+## I'm a multi disciplinary tech enthusiast based in Kathmandu, Nepal, currently working as Project Manager & Developer at Matrikatec.
 
 - **Development:** .NET APIs, Flutter/Dart (apps), React/Next.js (web), Node.js, Python, Java
 - **Databases:** MongoDB, PostgreSQL, and more
@@ -14,12 +14,21 @@ I'm always exploring new technology for smarter, faster, and more creative workf
 
 [![Website](https://img.shields.io/website?label=rajendrapandey.info.np&style=for-the-badge&url=https://rajendrapandey.info.np)](https://www.rajendrapandey.info.np)
 
-## I'm a Front-End Web Developer 👨‍💻
+## 👋 Hi, I'm Rajendra – Developer, Project Manager & Creative Tech Enthusiast
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar/drums
+- 🏢 Project Manager & Developer @ Matrikatec (Kathmandu, Nepal)
+- 📱 .NET, Flutter/Dart, React, APIs, and modern databases
+- 🎨 Graphics designer (Figma), videographer/editor, photographer
+- 🤖 Learning & implementing AI/ML; expert at prompt engineering & AI image generation
+- 🛠️ Applying AI at work for smarter, faster, and more accurate solutions
+- 👥 Leading teams and building products from idea to launch
+- 🌱 Always learning, creating, and exploring new tech
+- 🥅 2024 Goals: Contribute more to open source, master advanced AI
+- 🎸 Fun fact: I love to draw and play guitar/drums
+
+---
+
+⚡ **Explore my repositories and let's connect!**
 
 ## Languages and Tools 🔧
 
