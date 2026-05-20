@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Rajendra – Project Manager & Developer at Matrikatec Pvt. Ltd.
+## 👋 Hi, I'm Rajendra – Project Manager & Developer at Matrikatec Pvt. Ltd.\
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 Based in Kathmandu, Nepal, I blend a passion for technology with hands on experience in development, design, and project leadership.
 
 - **Development:** .NET APIs, Flutter/Dart (apps), React/Next.js (web), Node.js, Python, Java
