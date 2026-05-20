@@ -56,7 +56,7 @@ I'm always exploring new technology for smarter, faster, and more creative workf
 - Learning in public on [YouTube](https://www.youtube.com) 📹 ✍🏾
 - When I’m not coding, I share moments and updates on [Instagram](https://www.instagram.com/raja.indra7169). Let’s connect there too! 📸
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/rajendrapaandey/) 💼
-  # Other Social Media 📲
+
 [![Facebook](icons8-facebook-27.png)](https://www.facebook.com/raja.indra.50159)
 [![Twitter](icons8-twitter-26.png)](https://twitter.com)
 [![Gmail](icons8-gmail-26.png)](mailto:rajendrapandey199971@gmail.com)
