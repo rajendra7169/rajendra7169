@@ -1,3 +1,36 @@
+## 👋 Hi, I'm Rajendra – Project Manager & Developer at Matrikatec Pvt. Ltd.
+Based in Kathmandu, Nepal, I blend a passion for technology with hands on experience in development, design, and project leadership.
+
+- **Development:** .NET APIs, Flutter/Dart (apps), React/Next.js (web), Node.js, Python, Java
+- **Databases:** MongoDB, PostgreSQL, and more
+- **Design:** Professional graphics (Figma), UI/UX, photography, videography, and video editing
+- **AI & ML:** Passionate about modern AI, prompt engineering, image generation, workflow automation, and practical implementation in projects
+- **Leadership:** Experienced in project management, team collaboration, and delivering creative, efficient solutions
+
+I'm always exploring new technology for smarter, faster, and more creative workflows.
+
+**Let's connect, collaborate, and build something amazing!**
+
+<br/>
+
+[![Website](https://img.shields.io/website?label=rajendrapandey.info.np&style=for-the-badge&url=https://rajendrapandey.info.np)](https://www.rajendrapandey.info.np)
+
+## What I Do
+
+- 🏢 Project Manager & Developer @ Matrikatec (Kathmandu, Nepal)
+- 📱 .NET, Flutter/Dart, React, APIs, and modern databases
+- 🎨 Graphics designer (Figma), videographer/editor, photographer
+- 🤖 Learning & implementing AI/ML; expert at prompt engineering & AI image generation
+- 🛠️ Applying AI at work for smarter, faster, and more accurate solutions
+- 👥 Leading teams and building products from idea to launch
+- 🌱 Always learning, creating, and exploring new tech
+- 🥅 2024 Goals: Contribute more to open source, master advanced AI
+- 🎸 Fun fact: I love to draw and play guitar/drums
+
+---
+
+⚡ **Explore my repositories and let's connect!**
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -17,3 +50,37 @@
   <img alt="Figma" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="margin:10px" />
   <img alt="Git" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin:10px" />
 </p>
+
+## Find me around the web 🌎 <a href="https://rajendrapandey.info.np"><img align="right" width="200" height="200" src="male-programmer-writing-code.gif"></a>
+
+- Learning in public on [YouTube](https://www.youtube.com) 📹 ✍🏾
+- When I’m not coding, I share moments and updates on [Instagram](https://www.instagram.com/raja.indra7169). Let’s connect there too! 📸
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/rajendrapaandey/) 💼
+
+<br/>
+
+## Other Social Media 📲
+
+[![Facebook](icons8-facebook-27.png)](https://www.facebook.com/raja.indra.50159)
+[![Twitter](icons8-twitter-26.png)](https://twitter.com)
+[![Gmail](icons8-gmail-26.png)](mailto:rajendrapandey199971@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajendra7169/rajendra7169/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajendra7169/rajendra7169/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rajendra7169/rajendra7169/output/github-snake.svg" />
+</picture>
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajendra7169&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendra7169&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=rajendra7169&icon=0&color=0)](https://visitcount.itsvg.in)
+
