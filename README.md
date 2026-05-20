@@ -1,17 +1,14 @@
-# Hi there, I'm Rajendra 👋
+#I'm a multi-disciplinary tech enthusiast based in Kathmandu, Nepal, currently working as Project Manager & Developer at Matrikatec.
 
-I'm a versatile developer based in Kathmandu, Nepal, working at Matrikatec. I specialize in building seamless apps and APIs across platforms with Flutter/Dart, .NET (API), React, and modern databases. My experience spans full-stack web and cross-platform mobile development, UI/UX design, and database solutions.
+- **Development:** .NET APIs, Flutter/Dart (apps), React/Next.js (web), Node.js, Python, Java
+- **Databases:** MongoDB, PostgreSQL, and more
+- **Design:** Professional graphics (Figma), UI/UX, photography, videography, and video editing
+- **AI & ML:** Passionate about modern AI, prompt engineering, image generation, workflow automation, and practical implementation in projects
+- **Leadership:** Experienced in project management, team collaboration, and delivering creative, efficient solutions
 
-Proficient in:  
-- Mobile: Flutter/Dart  
-- Backend & API: .NET, Node.js/Express  
-- Frontend: React, Next.js, HTML/CSS/JS  
-- Databases: MongoDB, PostgreSQL, and more  
-- Python and Java
+I'm always exploring new technology for smarter, faster, and more creative workflows.
 
-I’m passionate about creating intuitive user experiences, delivering high-quality, efficient code, and collaborating in agile teams. Always eager to learn new technologies and tackle complex challenges.
-
-Feel free to explore my repositories to see my work!
+**Let's connect, collaborate, and build something amazing!**
 
 <br/>
 
