@@ -24,12 +24,31 @@ I'm always exploring new technology for smarter, faster, and more creative workf
 - 🛠️ Applying AI at work for smarter, faster, and more accurate solutions
 - 👥 Leading teams and building products from idea to launch
 - 🌱 Always learning, creating, and exploring new tech
-- 🥅 2026 Goals: Contribute more to open source, master advanced AI
+- 🥅 2026 Goals: Grow Blazify, contribute more to open source, master advanced AI
 - 🎸 Fun fact: I love to draw and play guitar/drums
 
 ---
 
 ⚡ **Explore my repositories and let's connect!**
+
+---
+
+## 🔥 Blazify
+
+A free, open-source music player I build and maintain. Streams millions of songs,
+plays them offline, and shows word by word synced lyrics. No advertisements, no
+tracking, no account required.
+
+[![Downloads](https://img.shields.io/github/downloads/rajendra7169/blazify/total?color=FFA726&label=downloads)](https://github.com/rajendra7169/blazify/releases)
+[![License](https://img.shields.io/badge/license-GPL--3.0-FFA726.svg)](https://github.com/rajendra7169/blazify/blob/main/LICENSE)
+
+**[blazify website](https://rajendra7169.github.io/blazify/)** for screenshots and downloads.
+
+| Platform | Built with | Source |
+|---|---|---|
+| Android | Kotlin, Jetpack Compose | [blazify](https://github.com/rajendra7169/blazify) |
+| Windows and Linux | Kotlin, Compose Multiplatform | [blazify-desktop](https://github.com/rajendra7169/blazify-desktop) |
+| iPhone | Swift, SwiftUI | [blazify-ios](https://github.com/rajendra7169/blazify-ios) |
 
 ## 🛠️ Languages & Tools
 
