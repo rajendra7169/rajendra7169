@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rajendra – Project Manager & Developer at Matrikatec Pvt. Ltd.
+## 👋 Hi, I'm Rajendra – Full stack Developer at Matrikatec Pvt. Ltd.
 Based in Kathmandu, Nepal, I blend a passion for technology with hands on experience in development, design, and project leadership.
 
 - **Development:** .NET APIs, Flutter/Dart (apps), React/Next.js (web), Node.js, Python, Java
