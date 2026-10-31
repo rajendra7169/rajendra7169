@@ -77,7 +77,6 @@ tracking, no account required.
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/rajendrapaandey/) 💼
 
 [![Facebook](icons8-facebook-27.png)](https://www.facebook.com/raja.indra.50159)
-[![Twitter](icons8-twitter-26.png)](https://twitter.com)
 [![Gmail](icons8-gmail-26.png)](mailto:rajendrapandey199971@gmail.com)
 
 <br/>
